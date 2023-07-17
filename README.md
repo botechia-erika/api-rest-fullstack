@@ -1,7 +1,1 @@
-
-
-idUser POST
-idUser COMMENT
-created_at
-AUTH
-JWT TOKEN
+setup inicial a partir de projeto labecommerce-serverside
